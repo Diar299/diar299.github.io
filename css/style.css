@@ -155,14 +155,15 @@ margin:10px;
 
 .contact-item strong {
   min-width: 80px;
-  color: #E8EBF0;
+  color: #1f2d3d;
 }
 
 .contact-item a {
-  color: #4FFFB0;
+  color: #2b6cb0;
   text-decoration: none;
 }
 
 .contact-item a:hover {
   text-decoration: underline;
+  color: #1f2d3d;
 }
