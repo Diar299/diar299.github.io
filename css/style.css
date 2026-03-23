@@ -140,3 +140,29 @@ margin:10px;
 }
 
 }
+.contact-info {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  margin-top: 1rem;
+}
+
+.contact-item {
+  display: flex;
+  gap: 16px;
+  align-items: baseline;
+}
+
+.contact-item strong {
+  min-width: 80px;
+  color: #E8EBF0;
+}
+
+.contact-item a {
+  color: #4FFFB0;
+  text-decoration: none;
+}
+
+.contact-item a:hover {
+  text-decoration: underline;
+}
